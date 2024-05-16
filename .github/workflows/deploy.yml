@@ -19,7 +19,7 @@ jobs:
         with:
           tool: zola@0.18.0
       - name: Run Zola
-        run: zola --base-url ${{ steps.deployment.outputs.page_url }} build
+        run: zola build --base-url ${{ steps.deployment.outputs.page_url }}
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
