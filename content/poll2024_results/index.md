@@ -1,6 +1,6 @@
 +++
 title = "Solaris Community Poll 2024 Results"
-date = 2024-05-25
+date = 2024-05-24
 +++
 
 Hey everyone!
