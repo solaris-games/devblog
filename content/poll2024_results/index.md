@@ -121,8 +121,32 @@ Honorary mention for "intergalactic bagpipes". That will need some looking into 
 ### Anything else you'd like to say?
 
 A number of suggestions for both the game and community that have been taken notice of.
-Also, a lot of really nice messages, thanks for that!
+Also, a lot of really nice messages, thanks!
 
 ## Conclusions
 
+Based on the feedback from the poll, it seems neccessary to improve communications about upcoming features, accepted suggestions etc. since there were several remarks regarding this. 
 
+My plan for improving this situation is by making a follow-up post with a rough roadmap that should, based partially on the feedback and suggestions received from the poll, guide what I plan to develop the rest of the year, mostly focusing on some major goals for each quarter.
+
+All of us Solaris developers work on Solaris voluntarily in their freetime, due to the nature of that, the development process is unsteady and cannot be planned accurately. Subscribing to a strict schedule is impossible, therefore a roadmap should only be taken as a rough guideline concerning major features, improvements and changes. Generally, I am aiming, as I have for the last months, for making at least one release per month, bringing in bugfixes, features and contributions from other developers as far as possible. There is actually still a backlog of pull requests that I haven't finished reviewing, those will come soon as well.
+
+Regarding suggestions, since the question was raised recently and also in the poll, any decent suggestion has been getting noted down by me and together with technical improvements and my own ideas is stored in a task managment system, from where releases are roughly drafted. I'll consider in how far this could be made more public or open for transparency reasons and to allow insight into past suggestions, however, there are some concerns around security, privacy and technical details.
+
+Additionally, one major point of dissatisfaction is with the state of learning guides and documentation. Improvements in some areas are already underway and I hope for further and continued community participation in that area.
+
+Another surprising fact is that there is a significant number of players that do not frequent the Discord. I'm planning to make changes to the website (like publishing announcements there) to better commmunicate changes and make it immediately obvious that development is ongoing.
+
+## Afterword
+
+I'd like to thank:
+
+The Solaris community for the trust and support in the three months since I took over project leadership.
+
+All contributors and developers for supporting Solaris and making it continously greater.
+
+And of course Hyperi0n, for making an amazing game with a great community.
+
+
+
+-- LimitingFactor
