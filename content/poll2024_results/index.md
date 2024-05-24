@@ -5,7 +5,7 @@ date = 2024-05-25
 
 Hey everyone!
 
-we had a community pol in the last weeks to gather some statistics, ideas for improvements and to further guide the development process of Solaris.
+we had a community poll in the last weeks to gather some statistics, ideas for improvements and to further guide the development process of Solaris.
 
 First, I'd like to thank everyone who participated! We got 81 response which is a good number!
 
