@@ -1,2 +1,9 @@
 @import "simple.css";
 
+.me-2 {
+    margin: 2px;
+}
+
+:root {
+    --accent: rgba(60, 210, 165, 0.75);
+}

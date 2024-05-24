@@ -1,9 +1,12 @@
 {% extends "base.html" %}
 
-{% block content %}
+{% block title %}
 <h1 class="title">
   Solaris DevBlog
 </h1>
+{% endblock title %}
+
+{% block content %}
 <ul>
   {% for page in section.pages %}
   <li><a href="{{ page.permalink | safe }}">{{ page.date }}: {{ page.title }}</a></li>

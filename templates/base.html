@@ -10,9 +10,27 @@
 <body>
   <section class="section">
     <div class="container">
+      <header>
+        <img src="/solaris_logo_text.png" class="solaris-logo">
+        {% block title %} {% endblock %}
+      </header>
+
       {% block content %} {% endblock %}
     </div>
   </section>
+
+  <footer>
+    <a href="https://github.com/solaris-games/solaris" target="_blank" title="Code" class="me-2">
+     GitHub
+    </a>
+    <a href="https://store.steampowered.com/app/1623930/Solaris/" target="_blank" title="Steam" class="me-2">
+      Steam
+    </a>
+    <a href="https://discord.com/invite/v7PD33d" target="_blank" title="Discord" class="me-2">
+      Discord
+    </a>
+    <a href="https://www.buymeacoffee.com/limitingfactor" target="_blank" class="me-2"></i>Donate</a>
+  </footer>
 </body>
 
 </html>
