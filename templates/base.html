@@ -4,14 +4,15 @@
 <head>
   <meta charset="utf-8">
   <title>Solaris DevBlog</title>
-  <link href="/style.css" rel="stylesheet">
+  <link href="{{ config.extra.rel_path }}/style.css" rel="stylesheet">
+  <link href="{{ config.extra.rel_path }}/favicon.ico" rel="icon" type="image/x-icon">
 </head>
 
 <body>
   <section class="section">
     <div class="container">
       <header>
-        <img src="/solaris_logo_text.png" class="solaris-logo">
+        <img src="{{ config.extra.rel_path }}/solaris_logo_text.png" class="solaris-logo">
         {% block title %} {% endblock %}
       </header>
 
