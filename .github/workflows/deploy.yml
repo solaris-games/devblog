@@ -29,7 +29,7 @@ jobs:
         with:
           tool: zola@0.18.0
       - name: Run Zola
-        run: zola build
+        run: zola --config config.prod.toml build
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
