@@ -12,7 +12,7 @@ The goal is still to make the development process more transparent by creating a
 
 ## Roadmap
 
-### Second quartal
+### Second quarter
 
 Since this only spans roughly one more month, the primary goal is shipping the next releases that will bring bugfixes and some features, especially those with outstanding PRs on GitHub:
 
@@ -20,7 +20,7 @@ Since this only spans roughly one more month, the primary goal is shipping the n
 - Scheduled bulk upgrades
 - First tutorial puzzles
 
-### Third quartal
+### Third quarter
 
 These features were frequently requested during the community poll, and I believe them to be important as well. Map generation will especially focus on improving the generation of the irregular map type.
 
@@ -31,7 +31,7 @@ These features were frequently requested during the community poll, and I believ
 - Additional experimental specialists
 - Several technical improvements
 
-### Fourth quartal
+### Fourth quarter
 
 Exporting games and replaying them seems good and useful, both to commemorate older games or to create content. However, there are some technical prequisites that must be solved, which is why this feature cannot land before they are implemented.
 There have been several complaints about the UI in the past, and I can definitely see some areas for improvement. Also we have some technical troubles with the libraries used. As far as possible, the UI should get some improvements during this time.
